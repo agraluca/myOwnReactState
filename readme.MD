@@ -24,6 +24,10 @@ O intuito dele foi criar meu próprio useState do ReactJS para entender seu func
 
 Montei uma estrutura de projeto simples com HTML e separei bem as funcionalidades e pastas. Para isso utilizei o type module para poder exportar e importar funções em outros arquivos.
 
+Caso queiram testar, esse é o [link da aplicação](https://my-own-react-state.vercel.app/)
+
+Basicamente a aplicação tem um contador utilizando o meu useState e quando a DOM é montada é feito um get e sua resposta é salva em outro estado e mostrado na tela o nome e sobrenome que foi pego na API.
+
 ## 🚀 Tecnologias
 
 Technologias que eu utilizei desenvolvendo essa aplicação:
